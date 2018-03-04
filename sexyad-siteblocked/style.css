@@ -83,6 +83,13 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
+/* Background Effects */
+
+.b-parallax{
+	background-attachment:fixed;
+}
+
+
 /* Dark theme */
 
 .d-bloc{
@@ -359,8 +366,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-Yosemite-202{
-	background-image:url("img/Yosemite%202.jpg");
+.bg-wall{
+	background-image:url("img/wall.jpg");
 }
 
 
